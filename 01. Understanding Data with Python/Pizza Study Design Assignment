@@ -1,0 +1,27 @@
+TO: CEO
+
+FROM: Nima
+
+DATE: 12/3/2020
+
+SUBJECT: Statistical Analysis on Delivery Service & Quality of Meals
+
+Today we're going to give a proposal about how better our delivery service and the quality of our meals are against Reyhoon restaurant.
+
+To be more famous, we need some good ads; So we can design a statistical analysis and use them in our ads to show to the customers that our service and quality are statistically better than Reyhoon. Data Collection
+
+As you know, most of our customers are through internet and from Snapp website which encompass many other restaurants like Reyhoon. So we can pay Snapp to get the records of our restaurant and Reyhoon restaurant about duration of delivery because when the bike gets the meal to the customer, he will inform Snapp. So for each customer of both restaurants, we have a number based on minutes
+
+In addition, we can go near both our restaurant and Reyhoon's and design a survey to ask them how was the food? The answers can be: Very Bad ,Bad ,Neutral, Good, Very Good. We can grab 200 customers for each restaurant & this will take 2 or 3 days for 2 of our colleagues to give the customers this survey.
+
+Visualization
+
+From the delivery service, we create a histogram to show our data against them. To make a better conclusion we calculate mean & standard deviation for each restaurant and hopefully we can see that our restaurant delivers the meal faster.
+
+For the quality of meals, we grab the sample results, modify them to numbers from 1 (Very Bad) to 5 (Very Good). We know that it's a sample so we design sample distributions for both restaurants. We calculate best estimates and also the standard error. then we can design a two-way T-test to make an inference to see if the quality of our restaurant is better , equal or worse than Reyhoon's & I'm pretty hopeful that the customers will give better scores to us.
+
+In this memo in a nutshell we are going to describe which data to collect and show, in order to use them in our advertisements against Reyhoon restaurant.
+
+Ads
+
+If the results were successful, for ads, we can create some motto about the time of delivery service and quality of foods to show the customers that we're better restaurants in these domains.
